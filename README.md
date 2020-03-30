@@ -16,6 +16,7 @@
 - Node js
 - React js
 - React Native
+- Expo
 - Express
 - Sucrase + Nodemon;
 - ESLint + Prettier;
